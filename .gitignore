@@ -1,0 +1,6 @@
+# ignore data files
+**/dataset
+
+
+# ignore checkpoints for notebook
+*.ipynb_checkpoints
